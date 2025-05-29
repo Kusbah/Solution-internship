@@ -1,0 +1,17 @@
+.mb-3{
+  margin-top: 2rem;
+  margin-left: 1rem;
+  max-width: 400px;
+}
+.button{
+  margin-left: 1rem;
+}
+body{
+  background-image: url("https://www.sol.ps/static/media/judeh.ce9629dd6659de5d2c20.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.text{
+  color: white;
+}
