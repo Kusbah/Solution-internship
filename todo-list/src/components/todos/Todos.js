@@ -10,7 +10,7 @@ const Todos = (props) => {
             mode={props.mode}
             />
         ))}
-    {props.todos.length ===0 && (<h3 className='no-todos'>لا يوجد مهام حالية .....</h3>)}
+    {props.todos.length === 0 && (<h3 className='no-todos'>لا يوجد مهام حالية .....</h3>)}
     </div>
   )
 }
